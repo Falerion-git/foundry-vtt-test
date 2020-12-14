@@ -1,15 +1,15 @@
 {   
-    "name" : "Release Test",   
-    "title" : "Release Test",   
-    "description" : "test repo to test releases",   
-    "author" : "Falerion-dev",
-    "version" : "0.0.2",
-    "minimumCoreVersion" : "0.7.8",
-    "compatibleCoreVersion" :"0.7.8",
-    "scripts" : [
+    "name": "Release Test",   
+    "title": "Release Test",   
+    "description": "test repo to test releases",   
+    "author": "Falerion-dev",
+    "version": "0.0.3",
+    "minimumCoreVersion": "0.7.8",
+    "compatibleCoreVersion":"0.7.8",
+    "scripts": [
         "init.js"
     ],
-    "url" : "https://github.com/Falerion-git/foundry-vtt-test",
-    "manifest" : "https://github.com/Falerion-git/foundry-vtt-test/releases/download/0.0.2module.json",
-    "download" : "https://github.com/Falerion-git/foundry-vtt-test/archive/0.0.2.zip"
+    "url": "https://github.com/Falerion-git/foundry-vtt-test",
+    "manifest": "https://github.com/Falerion-git/foundry-vtt-test/releases/download/0.0.3module.json",
+    "download": "https://github.com/Falerion-git/foundry-vtt-test/archive/0.0.3.zip"
 }
